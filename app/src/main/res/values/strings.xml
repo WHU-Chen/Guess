@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ranking">排行榜</string>
+    <string name="title_activity_deng_ji">请输入尊姓大名</string>
+    <string name="intro" >输入不重复的四位数，A表示存&#x000D;
+                          在且位置正确的数字个数，B表&#x000D;
+                          示存在但位置不正确的数字个数</string>
+</resources>
